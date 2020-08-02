@@ -1,4 +1,4 @@
-# ransomware-emulation
+# Manticore Ransomware Emulation
 
 Manticore Ransomware Emulation Via Cli Tool - Disclaimer Educational Purpose!
 
